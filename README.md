@@ -1,1 +1,1 @@
-# Pin-Pong
+# Pin-Pong game
